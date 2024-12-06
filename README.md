@@ -1,5 +1,12 @@
 # Proyek Klasifikasi Obat
 
+## Anggota Kelompok
+M. Hasan Basri : 2205903040041
+Munawar Khaliq : 2205903040071
+Yuliana risfa : 2205903040064
+Raihan Putri : 2205903040006
+Cut handriyani : 2205903040084
+
 ## Deskripsi  
 Proyek ini bertujuan untuk mengklasifikasikan pasien ke dalam kategori obat tertentu berdasarkan atribut kesehatan mereka dengan menggunakan pendekatan pembelajaran mesin (supervised learning). Dataset mencakup berbagai atribut pasien seperti usia, jenis kelamin, tekanan darah, kadar kolesterol, rasio natrium terhadap kalium, dan jenis obat (variabel target).  
 
